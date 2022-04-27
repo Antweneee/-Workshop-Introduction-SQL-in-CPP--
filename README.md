@@ -1,6 +1,7 @@
 # -Workshop-introduction-SQL-in-CPP-
 
-The purpose of this workshop is to learn how to use sql file with c++
+The purpose of this workshop is to learn how to use and manipulate sql file with c++
+At the end of this workshop you will be able to to open your SQL file, create your database, insert data in it, read and print your database, get specific data from it and you will be able to handle every query from SQL.
 
 
 ## Step 00 install packages :grey_exclamation:
